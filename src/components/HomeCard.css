@@ -1,0 +1,17 @@
+.homeCard{
+    background-color: #1B1F22;
+    border-radius: 12px;
+    border: 8px solid #1B1F22;
+    width: 30vh;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5vh;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0 0 7px 7px #695451;
+}
+
+.homeCard a{
+    text-decoration: underline #c8663f 4px;
+    color: white;
+}
